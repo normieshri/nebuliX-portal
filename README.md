@@ -102,7 +102,7 @@ Pull requests and issue reports are welcome! 🙌
 
 ## 📄 License
 
-MIT License © 2025 [Your Name]
+N/A
 
 ---
 
