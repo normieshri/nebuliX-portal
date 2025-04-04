@@ -108,16 +108,7 @@ MIT License © 2025 [Your Name]
 
 ## 📬 Contact
 
-Built by [@yourusername](https://github.com/yourusername)  
+Built by [@normieshri](https://github.com/normieshri)  
 If you found this useful, give the repo a ⭐ and share the love!
 
 ```
-
----
-
-Let me know if you want to include:
-- OpenStack image/flavor setup instructions
-- Screenshots or badges
-- A deployment script (Docker Compose or systemd)
-
-I can also help you polish your GitHub profile around this repo.
